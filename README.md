@@ -2,6 +2,9 @@
 
 ### Project Outline:
 
+#### Overview:
+This project was my final capstone during my undergrad. My partner and I created a machine learning model that verifies audio quality on songs, while also learning how to house this on a website utilizing database management. 
+
 #### 1. Creating the Machine Learning Algorithm
 a. Gather Training/Testing Data
 <br>b. Labeling Data
@@ -14,7 +17,7 @@ a. HTML/CSS
 <br>b. Utilizing Flask to run the machine learning model
 <br>c. Implementing a database to house our uploaded spectrograms
 
-### Findings:
+#### Findings:
 
 To answer the research question we started with, yes it is possible to verify audio quality. 
 However, to make this algorithm viable we need much more training data (coming from the website, and most likely another improvement in feature 
